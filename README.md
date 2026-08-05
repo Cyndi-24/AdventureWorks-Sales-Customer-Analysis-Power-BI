@@ -45,9 +45,7 @@ Before building the dashboards, the data was prepared in Power Query to improve 
 - Building a calendar table for time-based analysis
 - Reviewing and adjusting table relationships to support accurate filtering
 - Creating DAX measures for revenue, orders, customers, targets, and other KPIs
-
-The final data model connected customer, product, sales, returns, territory, and calendar information to support analysis across both dashboard pages.
-
+  
 ## Skills Demonstrated
 
 - Data cleaning and transformation using Power Query
@@ -55,7 +53,7 @@ The final data model connected customer, product, sales, returns, territory, and
 - DAX measure and KPI development
 - Sales and customer analysis
 - Time-based and geographic analysis
-- Interactive dashboard design
+- Interactive design 
 - Business insight communication
 
  ## Data Model
@@ -70,7 +68,7 @@ The final data model connected customer, product, sales, returns, territory, and
    * AdventureWorks_Sales_2017
    * AdventureWorks_Territory
 
-  The model below shows the relationships using DAX between the tables used for the analysis.
+  The model below shows the relationships between the tables used for the analysis across both dashboard table.
  --- 
   ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/model_view.png)
 ---   
