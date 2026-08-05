@@ -32,21 +32,34 @@ Management needed to examine customer spending, product performance, geographic 
 
 # DATA SOURCING
  This dataset was gotten from Kaggle.com, a website which offers a vast repository of datasets which can be used for personal projects and competitions for data enthusiasts and professionals
- 
- ---
- 
- # SKILLS DEMONSTRATED
- ---
- * Data Importation;
-   The dataset was saved in csv format and imported into PowerBI
- ---
- * Data Transformation;
-  After importing the data to PowerBI, I did a lot of transformation using PowerBI query editor which involved removing unnecessary 
-  columns and rows,removing duplicates,adding new columns and rows where necessary,formating the data types for each column,merging the 
-  date tables using append query and creating a calendar date table using DAX measures to make the analysis easier.
----
- * Data Modelling
-   I have nine tables;
+
+ ## Data Preparation and Modelling
+
+Before building the dashboards, the data was prepared in Power Query to improve its structure and reliability. The process included:
+
+- Importing the CSV files into Power BI
+- Removing unnecessary columns and duplicate records
+- Correcting column names and data types
+- Appending the yearly sales tables into one consolidated table
+- Creating additional columns where required
+- Building a calendar table for time-based analysis
+- Reviewing and adjusting table relationships to support accurate filtering
+- Creating DAX measures for revenue, orders, customers, targets, and other KPIs
+
+The final data model connected customer, product, sales, returns, territory, and calendar information to support analysis across both dashboard pages.
+
+## Skills Demonstrated
+
+- Data cleaning and transformation using Power Query
+- Relational data modelling
+- DAX measure and KPI development
+- Sales and customer analysis
+- Time-based and geographic analysis
+- Interactive dashboard design
+- Business insight communication
+
+ ## Data Model
+ The dataset has nine tables;
    * AdventureWorks_Customers
    * AdventureWorks_Product_category
    * AdventureWorks_Product_Subcategory
@@ -56,17 +69,12 @@ Management needed to examine customer spending, product performance, geographic 
    * AdventureWorks_Sales_2016
    * AdventureWorks_Sales_2017
    * AdventureWorks_Territory
-     
-   Loading the data set created an automatic data model but adjustments were made which include;
-   * Adding a calendar table to the model
-   * Using DAX for cross-filtering instead of setting cross filtering direction to both as this allows for more dynamic filtering
-   * With the help of dax measures I was able to analyze the dataset,calculate ,add aggregated columns etc
-  
-     The image below shows the adjusted model view
+
+  The model below shows the relationships using DAX between the tables used for the analysis.
  --- 
   ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/model_view.png)
 ---   
-# ANALYSYS AND VISUALIZATION
+# ANALYSYS AND VISUALISATION 
 ---
   This report contains two dashboard;customer and sales
   
