@@ -90,7 +90,8 @@ Before building the dashboards, the data was prepared in Power Query to improve 
 ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/Average_Income_%20customer_2015.png)
 ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/total_customers_kpi_2015.png)
 
-From 2015 t0 2016 there was an in increase in total customers by 247% and from 2016 to 2017 there was an incrsase by 15%
+
+The detailed dashboard views below reflect the 2015 slicer selection. Therefore, the customer, product, geographic, and monthly findings in this section describe 2015 only and are not presented as three-year results.
 
 ---
 Which gender had the most patronage?
