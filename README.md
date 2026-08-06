@@ -68,7 +68,7 @@ Before building the dashboards, the data was prepared in Power Query to improve 
    * AdventureWorks_Sales_2017
    * AdventureWorks_Territory
 
-  The model below shows the relationships between the tables used for the analysis across both dashboard table.
+  The model below shows the relationships between the tables used for the analysis across both dashboards.
  --- 
   ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/model_view.png)
 ---   
