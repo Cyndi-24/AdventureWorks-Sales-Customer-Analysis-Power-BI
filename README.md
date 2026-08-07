@@ -35,7 +35,7 @@ The analysis was therefore designed to evaluate revenue and order trends, assess
 
 6. Did the size or composition of the customer base change alongside the decline in revenue?
 
-# Data Sourcing 
+## Data Sourcing 
  This dataset was gotten from Kaggle.com, a website which offers a vast repository of datasets which can be used for personal projects and competitions for data enthusiasts and professionals
 
  ## Data Preparation and Modelling
@@ -78,7 +78,7 @@ Before building the dashboards, the data was prepared in Power Query to improve 
   ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/model_view.png)
 --- 
 
-# ANALYSYS AND VISUALISATION 
+## ANALYSYS AND VISUALISATION 
 
 The two-page Power BI report was analysed across 2015, 2016, and 2017 to understand how sales performance, products, geographic markets, and customer patterns changed over time.
 
