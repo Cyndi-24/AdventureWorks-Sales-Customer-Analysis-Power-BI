@@ -12,23 +12,28 @@ This project explores AdventureWorks sales and customer data from 2015 to 2017 u
 
 The goal was not simply to display revenue and order figures, but to understand what was driving performance, which customers and products contributed the most value, and where management might need to investigate further.
 
+
 ## Business Problem
 
-The dashboard showed growth in customer numbers and order volume between 2015 and 2017, while overall revenue declined.
+AdventureWorks management needed a clearer understanding of sales and customer performance between 2015 and 2017.
 
-This raised an important business question: why was revenue falling despite an increase in customers and orders?
+Although the company had data on customers, orders, products, revenue, and geographic markets, it was difficult to see how these areas were performing together and whether business activity was translating into stronger revenue performance.
 
-Management needed to examine customer spending, product performance, geographic results, and monthly sales patterns to identify the factors that may have contributed to the decline.
+The analysis was therefore designed to evaluate revenue and order trends, assess performance against the revenue target, identify the products, categories, and markets contributing most to sales, and understand whether changes in the customer base were associated with changes in overall performance.
 
-## Analytical Questions
+## Business Questions
 
-- How did revenue, orders, and customer numbers change between 2015 and 2017?
-- Which products and product categories generated the most revenue?
-- Which customer groups contributed the most based on gender, education, and income?
-- Which countries had the highest customer numbers and revenue?
-- Who were the highest-value customers?
-- What monthly or seasonal sales patterns were present?
-- Which areas showed the strongest performance gaps or opportunities?
+1. How did customers, orders, total revenue, and average revenue change from 2015 to 2017?
+
+2. How did product-category performance change as overall revenue declined?
+
+3. Which products generated the most revenue in each year?
+
+4. Which countries generated the highest revenue in each year, and did the leading market change?
+
+5. How did monthly revenue patterns change across the three years?
+
+6. Did the size or composition of the customer base change alongside the decline in revenue?
 
 # DATA SOURCING
  This dataset was gotten from Kaggle.com, a website which offers a vast repository of datasets which can be used for personal projects and competitions for data enthusiasts and professionals
