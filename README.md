@@ -35,7 +35,7 @@ The analysis was therefore designed to evaluate revenue and order trends, assess
 
 6. Did the size or composition of the customer base change alongside the decline in revenue?
 
-# DATA SOURCING
+# Data Sourcing 
  This dataset was gotten from Kaggle.com, a website which offers a vast repository of datasets which can be used for personal projects and competitions for data enthusiasts and professionals
 
  ## Data Preparation and Modelling
