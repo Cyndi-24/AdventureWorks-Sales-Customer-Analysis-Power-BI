@@ -92,18 +92,16 @@ The Sales Analysis dashboard focuses on revenue, orders, products, categories, c
  ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_dashboard_2015.png)     
 
 ---
- KPI's for customer report 2015
----
 
-![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/Average_Income_%20customer_2015.png)
-![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/total_customers_kpi_2015.png)
+1. How did customers, orders, total revenue, and average revenue change from 2015 to 2017?
+
+Finding: Customer numbers increased from 2,630 in 2015 to 9,133 in 2016 and 10,502 in 2017. Orders followed the same upward trend, rising from 2,630 to approximately 11,000 and 12,000 respectively.
+
+Despite this growth, total revenue declined from about $6 million in 2015 to $4 million in 2016 and $2 million in 2017. Average revenue also dropped sharply from $2,435 to $395 and then $149. The $5 million revenue target was achieved only in 2015.
+
+Interpretation: AdventureWorks was gaining customers and processing more orders, but the increase in activity was not translating into stronger revenue. The sharp decline in average revenue suggests that later sales were generating less value on average. This makes product performance, geographic contribution, monthly trends, and customer behaviour important areas to investigate further.
 
 
-The detailed dashboard views below reflect the 2015 slicer selection. Therefore, the customer, product, geographic, and monthly findings in this section describe 2015 only and are not presented as three-year results.
-
----
-Which gender had the most patronage?
----
 ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_by_gender_2015.png)
 
  The females patronised the most
