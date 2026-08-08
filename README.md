@@ -83,17 +83,26 @@ Before building the dashboards, the data was prepared in Power Query to improve 
   ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/model_view.png)
 
 
-## ANALYSYS AND VISUALISATION 
+## Analysis and Visualization
 
 The two-page Power BI report was analysed across 2015, 2016, and 2017 to understand how sales performance, products, geographic markets, and customer patterns changed over time.
 
 The Sales Analysis dashboard focuses on revenue, orders, products, categories, countries, and monthly performance, while the Customer Analysis dashboard provides additional context on customer growth and composition.
 
----
+## Customer Analysis Dashboard 2015
 
  ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/customer_dashboard_2015.png)
 
----
+## Customer Analysis Dashboard 2016
+
+![image alt](
+
+## Customer Analysis Dashboard 2017
+
+![image alt](
+
+## Sales Analysis Dashboard 2015
+
  ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_dashboard_2015.png)     
 
 ---
