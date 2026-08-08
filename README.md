@@ -143,10 +143,30 @@ Interpretation: AdventureWorks showed a recurring mid-year revenue peak followed
 Finding: Bikes were the main revenue-driving category across the markets reviewed. In the highest-revenue countries, particularly Australia and the United States, revenue was concentrated around a few dominant bike models—Road-150 in 2015 and Mountain-200 in 2016–2017. Lower-revenue markets such as Germany showed a more varied mix of bike models.
 
 Interpretation: AdventureWorks depended heavily on bike sales across markets, but the specific models driving revenue differed by country and over time. This suggests that product demand was not identical across markets.
-RECOMMENDATION AND CONCLUSION
 
----
-* Following the  monthly trend,sales gradually increases as the year begins and peaks up at June while gradually decreasing afterwards,more investigation needs to be done by the sales team to find out why in order to improve sales during the months of low sales and how to optimize and further boost revenue during May/June.
-* From product category,bikes generated the most revenue across the three years especially Road-150,Red 48 in 2015,thus there is need to constantly ensure the bikes in demand are always stocked up and readily available for purchase and delivery to the customers.
-* Europe had the most customers but it generated lesser revenue compared to Australia which generated the most revenue with lesser customers.This should be looked into by the marketing team in order promote advertisement of the company's product in thise areas.
-* Finally, since majority of the customers are average income earners the prices of the products should be looked into to ensure that the target market can afford the products. 
+## Recommendations
+
+* Prioritise **Australia and the United States**, the strongest revenue markets.
+  
+* Grow lower-performing markets such as **Germany, France, Canada, and the United Kingdom** with market-specific product and promotional strategies.
+  
+* Maintain strong availability of **Bikes**, especially the models performing best in each country.
+  
+* Plan inventory and promotions around the recurring **May–June revenue peak**.
+
+* Use **market-specific product strategies**, since model preference varied by country.
+  
+- Investigate why rising customer and order volumes did not translate into stronger revenue.
+  
+## Limitations 
+
+* The dashboard identifies where revenue changed across customers, products, categories, time, and markets, but does not isolate deeper drivers such as pricing, quantity, discounts, or returns. These would be useful for a fuller root-cause analysis.
+
+
+## Conclusion
+
+* AdventureWorks grew its customer base and order volume, but revenue declined over the period.
+
+* The analysis showed that Bikes remained the main revenue driver, Australia and the United States were the strongest   markets, and product demand varied across countries and over time.
+
+* These findings give management a clearer view of where revenue is coming from and where further growth opportunities may exist.
