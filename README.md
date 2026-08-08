@@ -29,13 +29,17 @@ The analysis was therefore designed to evaluate revenue and order trends, assess
 
 3. Which products generated the most revenue in each year?
 
-4. Which countries generated the highest revenue in each year, and did the leading market change?
+4. Did the size or composition of the customer base change alongside the decline in revenue?
 
-5. How did monthly revenue patterns change across the three years?
+5. How was revenue distributed across countries, and which markets generated the most revenue from 2015 to 2017?
 
-6. Did the size or composition of the customer base change alongside the decline in revenue?
+6. How did monthly revenue patterns change from 2015 to 2017?
 
+7. Which products or product categories were driving revenue in each country?
+
+   
 ## Data Sourcing 
+
  This dataset was gotten from Kaggle.com, a website which offers a vast repository of datasets which can be used for personal projects and competitions for data enthusiasts and professionals
 
  ## Data Preparation and Modelling
@@ -62,6 +66,7 @@ Before building the dashboards, the data was prepared in Power Query to improve 
 - Business insight communication
 
  ## Data Model
+ 
  The dataset has nine tables;
    * AdventureWorks_Customers
    * AdventureWorks_Product_category
@@ -74,9 +79,9 @@ Before building the dashboards, the data was prepared in Power Query to improve 
    * AdventureWorks_Territory
 
   The model below shows the relationships between the tables used for the analysis across both dashboards.
- --- 
+ 
   ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/model_view.png)
---- 
+
 
 ## ANALYSYS AND VISUALISATION 
 
@@ -118,10 +123,28 @@ Interpretation: The leading product family shifted from Road-150 models in 2015 
 
 Finding: The customer base grew substantially, from 2,630 customers in 2015 to 9,133 in 2016 and 10,502 in 2017. Despite this growth, the overall customer profile remained fairly stable. The gender split stayed close to 50/50 across all three years, while customers in the average- and low-income groups continued to make up the largest share. Customers with bachelor’s degrees and partial college education also remained the largest education groups.
 
-Interpretation: AdventureWorks was reaching a much larger customer base, but there was no major shift in customer composition that clearly explains the decline in revenue. This suggests that the revenue problem was more likely connected to factors such as product performance, purchasing patterns, or market-level differences rather than a significant change in who the company was selling to.
+Interpretation: AdventureWorks was reaching a much larger customer base, but there was no major shift in customer composition that clearly explains the decline in revenue. This suggests that the revenue problem was more likely connected to factors such as product performance, purchasing patterns, or market-level differences rather than a 
+significant change in who the company was selling to.
 
----
+5. How was revenue distributed across countries, and which markets generated the most revenue from 2015 to 2017?
+
+Finding: Revenue came from Australia, the United States, Canada, France, Germany, and the United Kingdom. Australia remained the highest-revenue market, generating about $2.12M in 2015, $1.63M in 2016, and $617K in 2017.
+
+Interpretation: Revenue was spread across several markets, but Australia and the United States remained the strongest contributors across the period.
+
+6. How did monthly revenue patterns change from 2015 to 2017?
+   
+Finding: Across all three years, revenue generally strengthened toward May and June, then dropped in July. In 2015 and 2016, revenue recovered toward December, though not to the mid-year peak. In 2017, revenue fell sharply after June and remained at a much lower level for the rest of the year.
+
+Interpretation: AdventureWorks showed a recurring mid-year revenue peak followed by a July decline. However, the weak recovery in 2017 suggests a more significant change in performance than the seasonal pattern seen in the previous two years.
+
+7. Which products or product categories were driving revenue in each country?
+   
+Finding: Bikes were the main revenue-driving category across the markets reviewed. In the highest-revenue countries, particularly Australia and the United States, revenue was concentrated around a few dominant bike models—Road-150 in 2015 and Mountain-200 in 2016–2017. Lower-revenue markets such as Germany showed a more varied mix of bike models.
+
+Interpretation: AdventureWorks depended heavily on bike sales across markets, but the specific models driving revenue differed by country and over time. This suggests that product demand was not identical across markets.
 RECOMMENDATION AND CONCLUSION
+
 ---
 * Following the  monthly trend,sales gradually increases as the year begins and peaks up at June while gradually decreasing afterwards,more investigation needs to be done by the sales team to find out why in order to improve sales during the months of low sales and how to optimize and further boost revenue during May/June.
 * From product category,bikes generated the most revenue across the three years especially Road-150,Red 48 in 2015,thus there is need to constantly ensure the bikes in demand are always stocked up and readily available for purchase and delivery to the customers.
