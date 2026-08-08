@@ -111,8 +111,7 @@ The Sales Analysis dashboard focuses on revenue, orders, products, categories, c
 
 ## Sales Analysis Dashboard 2017
 
-![image alt](
-
+![image alt](https://github.com/Cyndi-24/AdventureWorks-Sales-Customer-Analysis-Power-BI/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/sales_dashboard_2017.png)
 
  ## 1. How did customers, orders, total revenue, and average revenue change from 2015 to 2017?
 
