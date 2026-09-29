@@ -63,18 +63,8 @@ Before building the dashboards, the data was prepared in Power Query to improve 
 
  ## Data Model
  
- The dataset has nine tables;
-   * AdventureWorks_Customers
-   * AdventureWorks_Product_category
-   * AdventureWorks_Product_Subcategory
-   * AdventureWorks_Product
-   * AdventureWorks_Returns
-   * AdventureWorks_Sales_2015
-   * AdventureWorks_Sales_2016
-   * AdventureWorks_Sales_2017
-   * AdventureWorks_Territory
-
-  The model below shows the relationships between the tables used for the analysis across both dashboards.
+ The dataset has nine tables
+ The model below shows the relationships between the tables used for the analysis across both dashboards.
  
   ![image alt](https://github.com/Cyndi-24/Adventure-works-Project/blob/main/Adventure%20works%20BI%20PROJECT/adventure_works_images/model_view.png)
 
