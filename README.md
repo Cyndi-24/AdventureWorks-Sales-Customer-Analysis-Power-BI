@@ -149,15 +149,6 @@ Interpretation: AdventureWorks depended heavily on bike sales across markets, bu
   
 - Investigate why rising customer and order volumes did not translate into stronger revenue.
   
-## Limitations 
+## Limitation
 
 * The dashboard identifies where revenue changed across customers, products, categories, time, and markets, but does not isolate deeper drivers such as pricing, quantity, discounts, or returns. These would be useful for a fuller root-cause analysis.
-
-
-## Conclusion
-
-* AdventureWorks grew its customer base and order volume, but revenue declined over the period.
-
-* The analysis showed that Bikes remained the main revenue driver, Australia and the United States were the strongest   markets, and product demand varied across countries and over time.
-
-* These findings give management a clearer view of where revenue is coming from and where further growth opportunities may exist.
