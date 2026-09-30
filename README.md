@@ -50,16 +50,6 @@ Before building the dashboards, the data was prepared in Power Query to improve 
 - Building a calendar table for time-based analysis
 - Reviewing and adjusting table relationships to support accurate filtering
 - Creating DAX measures for revenue, orders, customers, targets, and other KPIs
-  
-## Skills Demonstrated
-
-- Data cleaning and transformation using Power Query
-- Relational data modelling
-- DAX measure and KPI development
-- Sales and customer analysis
-- Time-based and geographic analysis
-- Interactive design 
-- Business insight communication
 
  ## Data Model
  
